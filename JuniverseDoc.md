@@ -6,36 +6,41 @@
 
 [juniverse1] - Дескриптор первой вселенной.
 
-scene=cfg/main.ini
+        scene=cfg/main.ini
 
 scene - обязательный ключ, содержит указатель на файл, который будет загружен в первую очередь.
 
-springScenario=cfg/spring.ini
+        springScenario=cfg/spring.ini
 
 springScenario - не обязательный ключ, имя котрого выбирается произвольным образом,
 содержит путь к дополнительному сценарию.
 
 [juniverse2] - Дескриптор второй вселенной.
 
-scene=cfg/main1.ini
+        scene=cfg/main1.ini
 
-calculatorModel=cfg/calculator.ini
+        calculatorModel=cfg/calculator.ini
 
 ## main.ini Файл сценария.
 
+### [onLoad]
+
 Дескриптор onLoad указывает какие скрипты выполнить при загрузке
 
-[onLoad]
+
 
 executeScript = 1
 
+### [scene]
+
 То же, что и item0. Описывает статическое визуальное окружение сцены
 
-[scene]
+
+
+
+### [item1]
 
 Дескриптор создает визуальный объект с указанными свойствами.
-
-[item1]
 
 Ключ "fileName" указывает на файл, содержащий 3d модель.
 
@@ -60,5 +65,17 @@ executeScript = 1
 Ключ не имеет значение. В случае отсутствия этого ключа объект не перетаскивается
 
     dragable
+    
+### [light1]
+
+Дескриптор описывает источник светаю
+
+Ключ "position"  описывает положение источника света
+
+    position={"x":"sin(ugol)","y":"cos(ugol)","z":"0"}
+    
+Ключ "color" описывае цвет источника цвета. Поля содержат rgb компоненты цвета. 
+
+    color={"r":"0","g":"1","b":"0"}
 
 
