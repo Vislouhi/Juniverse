@@ -24,8 +24,8 @@
 #### Скрипты
         [script(example)]
         //Включить и выключить отображение цифр
-        {"Item":{"state":"on"}}
-        {"Item":{"state":"off"}}
+        {"LcdDisplay":{"state":"on"}}
+        {"LcdDisplay":{"state":"off"}}
        
 
 
