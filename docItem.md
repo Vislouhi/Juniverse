@@ -22,6 +22,17 @@
     position={"x":0","y":"0","z":"0"}
     rotation ={"x":"0.0","y":"1.0","z":"0.0","angle":"0"}
 
+#### Скрипты
+        [script(example)]
+        //Управление доступом к перемещению объекта мышью
+        {"Item":{"item":"cube","dragable":"on"}}
+        {"Item":{"item":"cube","dragable":"off"}}
+        //Установить подсказку с индексом 1
+        {"Item":{"item":"cube","hint":"1"}}
+        //Включить или выключить отображение объекта
+        {"Item":{"item":"cube","visible":"on"}}
+        {"Item":{"item":"cube","visible":"off"}}
+
 
 ### Ключи
 
