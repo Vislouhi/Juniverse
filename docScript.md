@@ -44,8 +44,8 @@
   
   * pointerX, pointerY, pointerZ - координаты указателя
    
-       //Присвоить переменным x, y, z координаты указателя, соответственно. 
-       {"setVariables":{"x":"pointerX","y":"pointerY","z":"pointerZ"}}  
+         //Присвоить переменным x, y, z координаты указателя, соответственно. 
+         {"setVariables":{"x":"pointerX","y":"pointerY","z":"pointerZ"}}  
        
  * positionX, positionY, positionZ - положение камеры
  
