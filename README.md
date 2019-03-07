@@ -45,6 +45,12 @@ projectName
 
  [Documentation](https://github.com/Vislouhi/Juniverse/blob/master/doc.md)
  
+## Видео
+
+[Выбор проекта](https://youtu.be/AuRdd7cPayE)
+
+[Новый проект](https://youtu.be/-XHBmJYcZuY)
+
 # Old Versions 
  
 https://drive.google.com/open?id=1kVIwmcEl6gQtHsovy8yGeZg16yrwxTPZ
