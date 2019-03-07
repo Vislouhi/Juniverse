@@ -43,7 +43,7 @@ projectName
 
 * Справка по синтаксису файлов сценария
 
- [Documentation](https://github.com/Vislouhi/Juniverse/blob/master/JuniverseDoc.md)
+ [Documentation](https://github.com/Vislouhi/Juniverse/blob/master/doc.md)
  
 # Old Versions 
  
