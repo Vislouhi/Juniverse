@@ -1,5 +1,52 @@
 # Juniverse
  
+ * Установить полную версию со всеми обновлениями
+ 
+ [Full Version Installer](https://drive.google.com/open?id=1sJUERjzkwGQ8uSKBTIVhXAnSOlwkTIWs)
+ 
+* Установить обновление старой версии
+
+ [Update Installer](https://drive.google.com/open?id=1wCmy81cIS4Lgvs2xbb1bZdRblDc6zRYK)
+ 
+ Устанавливать следует в папку со старой вкрсией Juniverse.
+ 
+ ## Начало работы
+ 
+ После установки на рабочем столе будут созданы ярлыки Juniverse и ProjectsDir
+ 
+* Juniverse - запуск программы
+
+* ProjectsDir - папка с проектами.
+
+В ней
+
+    ProjectsDir ->cfg -> cfg.ini
+
+       [reDirect]
+       cfg=projectName/cfg.ini
+       
+указывается ссылка на главный файл проекта.
+
+* Структура папки с проектом
+
+projectName
+
+  -> hints - всплывающтие подсказки
+  
+  -> meshes - 3d модели
+  
+  -> scenario - файлы со сценариями
+  
+  -> particles - картинки частиц
+  
+  -> tab - файлы виртуального планшета
+
+* Справка по синтаксису файлов сценария
+
+ [Documentation](https://github.com/Vislouhi/Juniverse/blob/master/JuniverseDoc.md)
+ 
+# Old Versions 
+ 
 https://drive.google.com/open?id=1kVIwmcEl6gQtHsovy8yGeZg16yrwxTPZ
 
 Обновление
