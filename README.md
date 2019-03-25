@@ -10,6 +10,14 @@
  
  Устанавливать следует в папку со старой вкрсией Juniverse.
  
+ * Обновление
+ 
+ https://drive.google.com/open?id=1TpmRUlKcfMODc1v5mtlSfnpfn76bKxuV
+ 
+ * Газовые законы
+ 
+ https://drive.google.com/open?id=1WI5dYZPfsCldR69pPcrDgojbmLM7TAbT
+ 
  ## Начало работы
  
  После установки на рабочем столе будут созданы ярлыки Juniverse и ProjectsDir
