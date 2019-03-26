@@ -21,6 +21,10 @@
     [script(newScript)]
     {"setVariables":{"dH":"0.001"}}
     {"RigidBody":{"item":"1", "x":"oX","y":"oY-0.5","z":"oZ"}}
+    
+#### Скрипты
+       {"Script":{"execute":"script"}}
+    
 
 ### Скрипты не относящиеся к объектам
 
