@@ -18,6 +18,11 @@ https://drive.google.com/open?id=1u_USGW0cHLUolk3cGx0XGxgknV7bhJxi
  
  https://drive.google.com/open?id=1WI5dYZPfsCldR69pPcrDgojbmLM7TAbT
  
+ * Рычагов. Диплом.
+ 
+ https://drive.google.com/open?id=1tr2U0rZ-OGBe5rhNbg7tWBjOLBAMZ10G
+ 
+ 
  ## Начало работы
  
  После установки на рабочем столе будут созданы ярлыки Juniverse и ProjectsDir
