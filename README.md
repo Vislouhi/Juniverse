@@ -64,6 +64,8 @@ projectName
 
 [Новый проект](https://youtu.be/-XHBmJYcZuY)
 
+[Электризация](https://youtu.be/50Pxxct-7A0)
+
 # Old Versions 
  
 https://drive.google.com/open?id=1kVIwmcEl6gQtHsovy8yGeZg16yrwxTPZ
