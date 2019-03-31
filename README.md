@@ -66,6 +66,8 @@ projectName
 
 [Электризация](https://youtu.be/50Pxxct-7A0)
 
+[Закон сохранения импульса](https://youtu.be/rwnFoKDXj_Q)
+
 # Old Versions 
  
 https://drive.google.com/open?id=1kVIwmcEl6gQtHsovy8yGeZg16yrwxTPZ
