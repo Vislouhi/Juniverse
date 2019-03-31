@@ -68,6 +68,8 @@ projectName
 
 [Закон сохранения импульса](https://youtu.be/rwnFoKDXj_Q)
 
+[Опыт Штерна](https://youtu.be/BRhnmbIeaZY)
+
 # Old Versions 
  
 https://drive.google.com/open?id=1kVIwmcEl6gQtHsovy8yGeZg16yrwxTPZ
