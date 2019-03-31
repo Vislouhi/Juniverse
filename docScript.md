@@ -21,9 +21,16 @@
     [script(newScript)]
     {"setVariables":{"dH":"0.001"}}
     {"RigidBody":{"item":"1", "x":"oX","y":"oY-0.5","z":"oZ"}}
+    //Выполнить скрипт при условии dH<10
+    {"RigidBody":{"condition":{"dH":"<10"},"item":"1", "x":"oX","y":"oY-0.5","z":"oZ"}}
     
 #### Скрипты
+        //Выполнить скрипт в этом узле
        {"Script":{"execute":"script"}}
+       //Выполнить скрипт в узле "start"
+       {"Script":{"node":"start","execute":"script"}}
+       //Выполнить скрипт в этом узле с задержкой в 2с
+       {"Script":{"execute":"script","delay":"2"}}
     
 
 ### Скрипты не относящиеся к объектам
