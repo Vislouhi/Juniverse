@@ -12,7 +12,7 @@
  
  * Обновление
  
-https://drive.google.com/open?id=1u_USGW0cHLUolk3cGx0XGxgknV7bhJxi
+https://drive.google.com/open?id=1rgZCV9G7GmEVq98UeD0xlELht2_v6SdP
  
  * Газовые законы
  
@@ -22,6 +22,13 @@ https://drive.google.com/open?id=1u_USGW0cHLUolk3cGx0XGxgknV7bhJxi
  
  https://drive.google.com/open?id=1tr2U0rZ-OGBe5rhNbg7tWBjOLBAMZ10G
  
+ * Пинаев. Диплом.
+ 
+ https://drive.google.com/open?id=1DajFGL9mPlnZTMiPV8T82rYqcVNijvG8
+ 
+ * Тетюева
+ 
+ https://drive.google.com/open?id=1dxjwXTiYthHnDt6NxGybqAoKOdOSKOMv
  
  ## Начало работы
  
