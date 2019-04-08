@@ -12,7 +12,7 @@
  
  * Обновление
  
-https://drive.google.com/open?id=1rgZCV9G7GmEVq98UeD0xlELht2_v6SdP
+https://drive.google.com/open?id=1CpzkA3yOaqNM2SmxcmI9m2CaDqljPSnF
  
  * Газовые законы
  
