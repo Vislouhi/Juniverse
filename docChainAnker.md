@@ -27,6 +27,8 @@
         [script(example)]
         //Снять с chainAnker1 последний элемент
         {"ChainAnker":{"item":"1","action":"dropLast"}}
+        //Изменить количество объектов доступных к закреплению
+        {ChainAnker:{"item":"1","maxItems":"0"}}
        
 
 
