@@ -4,15 +4,9 @@
  
  [Full Version Installer](https://drive.google.com/open?id=1sJUERjzkwGQ8uSKBTIVhXAnSOlwkTIWs)
  
-* Установить обновление старой версии
-
- [Update Installer](https://drive.google.com/open?id=1wCmy81cIS4Lgvs2xbb1bZdRblDc6zRYK)
- 
- Устанавливать следует в папку со старой вкрсией Juniverse.
- 
  * Обновление
  
-https://drive.google.com/open?id=1CpzkA3yOaqNM2SmxcmI9m2CaDqljPSnF
+https://drive.google.com/open?id=1cgSlJS5wQgWTEld0GRCvUJ45_WEetZJU
  
  * Газовые законы
  
