@@ -32,6 +32,9 @@
         //Включить или выключить отображение объекта
         {"Item":{"item":"cube","visible":"on"}}
         {"Item":{"item":"cube","visible":"off"}}
+        //Включить или выключить обводку объекта
+        {"Item":{"item":"shar","outline":"on"}}
+        {"Item":{"item":"shar","outline":"off"}}
 
 
 ### Ключи
