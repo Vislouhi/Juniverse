@@ -59,6 +59,11 @@ projectName
 
  [Documentation](https://github.com/Vislouhi/Juniverse/blob/master/doc.md)
  
+    [contactPoint]
+    radius=50
+
+    [shader]
+    maxArraySize=1
 ## Видео
 
 [Выбор проекта](https://youtu.be/AuRdd7cPayE)
