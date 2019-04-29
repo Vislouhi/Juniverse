@@ -2,7 +2,7 @@
  
  * Установить полную версию со всеми обновлениями
  
- [Full Version Installer](https://drive.google.com/open?id=1sJUERjzkwGQ8uSKBTIVhXAnSOlwkTIWs)
+ [Full Version Installer](https://drive.google.com/open?id=1dB5rv51T_RobvNaodMTeSOxfqfnN7vgJ)
  
  * Обновление
  
