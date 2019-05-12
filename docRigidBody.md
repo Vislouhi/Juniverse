@@ -30,6 +30,8 @@
      {"RigidBody":{"item":"1", "x":"1","y":"2","z":"3"}}
      //Задать rigidBody1 данную скорость
      {"RigidBody":{"item":"1", "velocityX":"0","velocityY":"0.1","velocityZ":"0"}}
+     //Изменить длину пружинного соединения
+     {"RigidBody":{"item":"1", "springConnection":{"index":1,"length":"0.3-0.1"}}}
 
 
 
