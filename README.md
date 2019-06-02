@@ -6,7 +6,7 @@
  
  * Обновление
  
-https://drive.google.com/open?id=16XKLZfBhr8GpfrQ9xWh0jtKisai4vfK-
+https://drive.google.com/open?id=1HTHkgvYd5TsXOgoDvSUL4Ly0C3iEBBlN
  
  * Газовые законы
  
