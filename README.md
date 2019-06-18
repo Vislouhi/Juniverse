@@ -6,7 +6,16 @@
  
  * Обновление
  
-https://drive.google.com/open?id=1sYp4tZbiVtx4X7DA08mSyHJAMrRAp1YW
+https://drive.google.com/open?id=16tGqMwTUjSpY7VLVBvnPLfmGChrl69F1
+
+Можно отключить прокрутку планшета или ограничить ее.
+
+[Page(home)]
+fileName=KharinaVi/tab/Vi/menu1.png
+buttons=homePageButtons
+scroll=off
+maxScroll=0.65
+
  
  * Газовые законы
  
