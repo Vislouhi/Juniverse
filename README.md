@@ -6,7 +6,7 @@
  
  * Обновление
  
-https://drive.google.com/open?id=1lM01GX0m5QoORktBAKA53jf4xKjMJky0
+https://drive.google.com/open?id=1-Jgvhrb7a4iPyl1d95KtU0XdNm6GYUf0
 
 Можно отключить прокрутку планшета или ограничить ее.
 
