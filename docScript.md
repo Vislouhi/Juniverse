@@ -72,7 +72,7 @@
   
   ### Управление камерой
   
-         {"Camera":{"x":"0","y":"0","z":"0","rotationY":"0"}}
+         {"Camera":{"x":"0","y":"0","z":"0","rotationY":"0","moveFactor":"0.5","zoom":"1.0"}}
          
 ### Управление камерой
         {"Juniverse":{"tableHeight":"2"}}
